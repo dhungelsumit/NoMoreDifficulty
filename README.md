@@ -9,4 +9,4 @@ For the front end, we are using HTML, CSS, jQuery, core JavaScript. We chose d3j
 
 Contributers: Saurav K Aryal Susan Bhattarai Sumit Dhungel Swapnil Tamrakar
 
-The link is http://midashack.susanbhattarai.space/.
+The link is https://goo.gl/jRKsaj
